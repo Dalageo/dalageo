@@ -176,7 +176,7 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <div>
   <h2 align="left">Top Repositories</h2>
   <p align="center">
-    <a href="https://github.com/Dalageo/fine-tuning-llms"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=fine-tuning-llms&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="fine-tuning-llms"></a>
+    <a href="https://github.com/Dalageo/fine-tuning-llms"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=fine-tuning-llm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="fine-tuning-llms"></a>
     <a href="https://github.com/Dalageo/paperclip-inspection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=paperclip-inspection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="paperclip-inspection"></a>
     <a href="https://github.com/Dalageo/gan-landscape-generator"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=gan-landscape-generator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="gan-landscape-generator"></a>
   </p>
