@@ -2,6 +2,10 @@
   
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=500&color=FFF&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
+</p>
+
 A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
 
 ### 📘 Curious to explore my work?
@@ -165,13 +169,16 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
 <div>
   <h2 align="left">Stats & Activity</h2>
   <p align="center">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=dalageo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
-    <br>
     <a href="https://github.com/dalageo">
       <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" />
     </a>
+    <br>
+    <a href="https://github.com/dalageo">
+      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=dalageo&line=FFD700&point=FFD700&title_color=FFD700&color=FFD700&bg_color=transparent&area=true&hide_border=true" />
+    </a>
   </p>
 </div>
+
 
 <div>
   <h2 align="left">Top Repositories</h2>
