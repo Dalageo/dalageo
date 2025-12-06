@@ -3,7 +3,7 @@
 # Hey there 👋🏻, I'm [Dalageo](https://github.com/Dalageo)!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=500&color=FFF&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=500&color=FFF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
 </p>
 
 A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
