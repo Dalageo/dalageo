@@ -176,6 +176,10 @@ A passionate enthusiast of **Artificial Intelligence and Automation**, who alway
     <a href="https://github.com/dalageo">
       <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=dalageo&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
     </a>
+    <br>
+    <a href="https://github.com/dalageo">
+      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=kostas-caretta&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
+    </a>
   </p>
 </div>
 
