@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=FFF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
 </p>
 
-A passionate enthusiast of **Artificial Intelligence and Automation**, who always eager to learn and tackle new challenges. Recently, I graduated with a Master’s degree and completed my thesis titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
+**Data Science & AI Developer** with a background in **Machine and Deep Learning**, who is always eager to learn and tackle new challenges. Completed my Master’s thesis, titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
 
 ### 📘 Curious to explore my work?
 <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">
