@@ -180,7 +180,7 @@
   </tr>
     <br>
     <a href="https://github.com/dalageo">
-      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=dalageo&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
+      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Dalageo&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
     </a>
     <br>
     <a href="https://github.com/kostas-caretta">
