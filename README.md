@@ -166,12 +166,18 @@
 
 <br clear="both" />
 
+
 <div>
   <h2 align="left">Stats & Activity</h2>
   <p align="center">
-    <a href="https://github.com/dalageo">
-      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=Dalageo&theme=dark&hide_border=true" alt="Github Streak" />
-    </a>
+     <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dalageo&show_icons=true&bg_color=151515&title_color=F8D866&icon_color=F8D866&text_color=ffffff&hide_border=true" alt="Dalageo's Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalageo&layout=compact&bg_color=151515&title_color=F8D866&text_color=ffffff&hide_border=true" alt="Dalageo's Top Languages" />
+    </td>
+  </tr>
     <br>
     <a href="https://github.com/dalageo">
       <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=dalageo&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
