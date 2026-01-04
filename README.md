@@ -169,26 +169,25 @@
 
 <div>
   <h2 align="left">Stats & Activity</h2>
-  <p align="center">
-     <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dalageo&show_icons=true&bg_color=151515&title_color=F8D866&icon_color=F8D866&text_color=ffffff&hide_border=true" alt="Dalageo's Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalageo&layout=compact&bg_color=151515&title_color=F8D866&text_color=ffffff&hide_border=true" alt="Dalageo's Top Languages" />
-    </td>
-  </tr>
-    <br>
-    <a href="https://github.com/dalageo">
-      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=Dalageo&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
-    </a>
-    <br>
-    <a href="https://github.com/kostas-caretta">
-      <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=kostas-caretta&line=F8D866&point=F8D866&title_color=F8D866&color=F8D866&bg_color=transparent&area=true&hide_border=true" />
-    </a>
-  </p>
+  <!-- Trophies -->
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Star" /></a>
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Followers" /></a>
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Repositories" /></a>
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=kostas-caretta&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Commit" /></a>
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=PullRequest" /></a>
+  <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Experience" /></a>
+  <div align="center">
+  <!-- Dalageo -->
+  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dalageo&theme=ayu_mirage" height="180px" alt="Profile Details" /></a>
+  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dalageo&theme=ayu_mirage" height="180px" alt="Profile Stats" /></a>
+  <!-- kostas-caretta -->
+  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostas-caretta&theme=ayu_mirage" height="180px" alt="Profile Details" /></a>
+  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kostas-caretta&theme=ayu_mirage" height="180px" alt="Profile Stats" /></a>
+   <!-- Languages -->
+  <a href="https://github.com/dalageo?tab=repositories"><img title="Top languages" width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dalageo&theme=ayu_mirage" /></a>
+  <a href="https://github.com/dalageo?tab=repositories"><img title="Top languages" width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dalageo&theme=ayu_mirage" /></a>
 </div>
-
+  
 
 <div>
   <h2 align="left">Top Repositories</h2>
