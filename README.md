@@ -178,11 +178,11 @@
   <a href="https://github.com/dalageo?tab=achievements"><img title="My GitHub Trophies" width="15%" src="https://github-profile-trophy.vercel.app/?username=Dalageo&theme=kimbie_dark&no-frame=true&no-bg=true&&column=-1&title=Experience" /></a>
   <div align="center">
   <!-- Dalageo -->
-  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dalageo&theme=ayu_mirage" width="60%" height="180px" alt="Profile Details" /></a>
-  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dalageo&theme=ayu_mirage" width="35%" height="180px" alt="Profile Stats" /></a>
+  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dalageo&theme=ayu_mirage" width="60%" height="200px" alt="Profile Details" /></a>
+  <a href="https://github.com/dalageo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dalageo&theme=ayu_mirage" width="35%" height="170px" alt="Profile Stats" /></a>
   <!-- kostas-caretta -->
-  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostas-caretta&theme=ayu_mirage" width="60%" height="180px" alt="Profile Details" /></a>
-  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kostas-caretta&theme=ayu_mirage" width="35%" height="180px" alt="Profile Stats" /></a>
+  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kostas-caretta&theme=ayu_mirage" width="60%" height="200px" alt="Profile Details" /></a>
+  <a href="https://github.com/kostas-caretta"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kostas-caretta&theme=ayu_mirage" width="35%" height="170px" alt="Profile Stats" /></a>
    <!-- Languages -->
   <a href="https://github.com/dalageo?tab=repositories"><img title="Top languages" width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dalageo&theme=ayu_mirage" /></a>
   <a href="https://github.com/dalageo?tab=repositories"><img title="Top languages" width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dalageo&theme=ayu_mirage" /></a>
