@@ -13,39 +13,35 @@
   <img src="https://github.com/user-attachments/assets/7b7222c0-c35f-43c6-8d58-028cf6b35b09" alt="Master's Thesis" width="120" height="80" style="border: 1px solid #ddd; border-radius: 5px;"/>
 </a>
 <div align="center">
-
 <p align="center">
   <em>Feel free to check it out on <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">DiVA (Digitala Vetenskapliga Arkivet)</a> and delve into the research findings!</em>
 </p>
 
 <br style="line-height: 5px;" />
-
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=Dalageo&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Dalageo?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="Total stars"/>
   <a href="https://github.com/Dalageo?tab=followers">
     <img src="https://img.shields.io/github/followers/Dalageo?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="Follow me on Github"/>
   </a>
-  
 </div>
-
 <div align="left">
 
 ## About Me
-</div>
 
+</div>
 <div align="right">
   <img src="https://github.com/user-attachments/assets/a0ae79be-f68b-4bed-8514-2c69ada82f45" alt="Brain-gif" style="width: 100%; max-width: 280px; height: 280px;" align="right">
 </div>
 
 <div align="left">
   
-* Learning, building & growing at&nbsp; <a href="https://www.carettaresearch.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/c193769d-6172-4617-ba33-376838dedf1c" alt="caretta" height="18" width="18"> </a>
-* Actively working on projects, trust me...**they exist**&nbsp; <a href="https://github.com/Dalageo" target="_blank"> <img src="https://github.com/user-attachments/assets/bcdc6b04-0a86-42d6-b414-cc993781f848" alt="github" height="15" width="15"> 
+* Learning, building & growing at&nbsp; <a href="https://www.carettaresearch.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/c193769d-6172-4617-ba33-376838dedf1c" alt="caretta" width="18"> </a>
+* Actively working on projects, trust me...**they exist**&nbsp; <a href="https://github.com/Dalageo" target="_blank"> <img src="https://github.com/user-attachments/assets/bcdc6b04-0a86-42d6-b414-cc993781f848" alt="github" width="15">
 * Keeping myself updated 📚
-* Always open to collaborating on exciting projects 🤝  
-* Feel free to ask me any questions 💬  
+* Always open to collaborating on exciting projects 🤝
+* Feel free to ask me any questions 💬
+  
 </div>
 
 <h3 align="left">Find Me On:</h3>
