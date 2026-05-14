@@ -198,5 +198,5 @@
 </div>
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8871e5,100:b678c4&text=Glad%20to%20see%20you%20here!&textBg=false&fontAlign=50&reversal=false&animation=fadeIn&rotate=0&fontAlignY=50&fontSize=40&strokeWidth=1&stroke=b678c4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:8871e5,100:b678c4&text=Glad%20to%20see%20you%20here!&textBg=false&fontAlign=50&reversal=false&animation=fadeIn&rotate=0&fontAlignY=50&fontSize=40&strokeWidth=1&stroke=b678c4&section=footer"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8871e5,100:b678c4&textBg=false&fontAlign=61&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=50&strokeWidth=1.5&descAlignY=50&section=footer"/>
