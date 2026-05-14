@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8871e5,100:b678c4&text=Dalageo&textBg=false&fontAlign=50&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=52&fontSize=60&strokeWidth=1.5&descAlignY=33&stroke=b678c4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8871e5,100:b678c4&textBg=false&fontAlign=61&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=50&strokeWidth=1.5&descAlignY=50&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:8871e5,100:b678c4&text=Dalageo&textBg=false&fontAlign=50&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=52&fontSize=60&strokeWidth=1.5&descAlignY=33&stroke=b678c4&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=FFF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
@@ -195,6 +196,7 @@
     <a href="https://github.com/Dalageo/vitdec-anomaly-detection"><img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dalageo&repo=vitdec-anomaly-detection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="vitdec-anomaly-detection"></a>
   </p>
 </div>
+<br>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&color=0:8871e5,100:b678c4&text=Glad%20to%20see%20you%20here!&textBg=false&fontAlign=50&reversal=false&animation=fadeIn&rotate=0&fontAlignY=50&fontSize=40&strokeWidth=1&stroke=b678c4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8871e5,100:b678c4&text=Glad%20to%20see%20you%20here!&textBg=false&fontAlign=50&reversal=false&animation=fadeIn&rotate=0&fontAlignY=50&fontSize=40&strokeWidth=1&stroke=b678c4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8871e5,100:b678c4&textBg=false&fontAlign=61&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=50&strokeWidth=1.5&descAlignY=50&section=footer"/>
