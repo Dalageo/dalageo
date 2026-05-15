@@ -65,9 +65,9 @@
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" /></a> &nbsp;
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="40" /></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="37" /></a> &nbsp;
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2cbfe1d1-80bd-49a7-9dd9-f647d8dc8876" alt="javascript" width="35" /></a> &nbsp;
-      <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="40" /></a> &nbsp;
+      <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="36" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/599f4828-cffd-4ffc-bdb0-d4a0551fa466" alt="HTML-logo" width="35" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18cde7f-d58e-483f-a24b-dc3a44111a3c" alt="SQL-logo" width="40" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/1503a7d8-6b0b-40b7-9cca-af81582142f0" alt="ASM-logo" width="43" /></a> &nbsp;
@@ -81,7 +81,7 @@
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="38" /></a> &nbsp;
       <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" /></a> &nbsp;
       <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" /></a> &nbsp;
-      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="40" /></a> &nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="39" /></a> &nbsp;
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bae5e073-499d-49e5-bd8d-38ac10f7a007" alt="postgre" width="40" /></a> &nbsp;
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bc20f8d-d73f-4a53-8032-e6b150dec44c" alt="mysql" width="40" /></a> &nbsp;
       <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" /></a> &nbsp;
@@ -120,7 +120,7 @@
       <strong>LLMs & Vision Models</strong>
     </td>
     <td>
-      <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/124f4ade-50ae-4e35-bc13-ecbbecfea024" alt="gemini" width="40" /></a> &nbsp;
+      <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/124f4ade-50ae-4e35-bc13-ecbbecfea024" alt="gemini" width="39" /></a> &nbsp;
       <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ca7fc82-c450-4a5f-8854-8141bc283450" alt="openai" width="40" /></a> &nbsp;
       <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/adc0e5fe-0526-48ee-bc03-8c894d8825a7" alt="llama" width="40" /></a> &nbsp;
       <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e674aba0-e20b-48b0-b67e-d43d9e9facc4" alt="mistral" width="40" /></a> &nbsp;
@@ -135,7 +135,7 @@
     <td>
       <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Vs-logo" width="39" /></a> &nbsp;
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/807ae247-bc92-47c1-9a1d-0a4cdb0d5feb" alt="Vscode-logo" width="39" /></a> &nbsp;
-      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="43" /></a> &nbsp;
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/71d9630c-3a5d-4253-930c-852a5e5c0f5d" alt="Jupyter-logo" width="36" /></a> &nbsp;
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /></a> &nbsp;
     </td>
 </tr>
