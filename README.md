@@ -64,9 +64,10 @@
     </td>
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" /></a> &nbsp;
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9255622d-9b5f-4f75-a89f-10604883ee47" alt="typescript" width="38" /></a> &nbsp;
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ca6cf4b-0b9e-4b6c-bdeb-3cfefb52e158" alt="javascript" width="39" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="37" /></a> &nbsp;
-      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2cbfe1d1-80bd-49a7-9dd9-f647d8dc8876" alt="javascript" width="35" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="36" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/599f4828-cffd-4ffc-bdb0-d4a0551fa466" alt="HTML-logo" width="35" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18cde7f-d58e-483f-a24b-dc3a44111a3c" alt="SQL-logo" width="40" /></a> &nbsp;
@@ -79,11 +80,12 @@
     </td>
     <td>
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="38" /></a> &nbsp;
+      <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ea534af-21a4-43c3-bea7-82ec2b9b2532" alt="bigquery" width="40" /></a> &nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bc20f8d-d73f-4a53-8032-e6b150dec44c" alt="mysql" width="40" /></a> &nbsp;
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bae5e073-499d-49e5-bd8d-38ac10f7a007" alt="postgre" width="40" /></a> &nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="39" /></a> &nbsp;
       <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" /></a> &nbsp;
       <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" /></a> &nbsp;
-      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="39" /></a> &nbsp;
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bae5e073-499d-49e5-bd8d-38ac10f7a007" alt="postgre" width="40" /></a> &nbsp;
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bc20f8d-d73f-4a53-8032-e6b150dec44c" alt="mysql" width="40" /></a> &nbsp;
       <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" /></a> &nbsp;
     </td>
 </tr>
@@ -101,13 +103,12 @@
 </tr>
 <tr>
     <td align="left">
-      <strong>Frameworks &amp; Libraries</strong>
+      <strong>Data Science &amp; ML Frameworks</strong>
     </td>
     <td>
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" /></a> &nbsp;
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/40b41faf-197a-49f5-9d5c-4af32759fb92" alt="tensorflow" width="40" /></a> &nbsp;
       <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a9d69e02-5193-47d8-bb41-2e329d205afd" alt="spark" width="38" /></a> &nbsp;
-      <a href="https://vllm.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6de67dd7-6e6f-498a-9c9b-947c895c2ff8" alt="spark" width="38" /></a> &nbsp;
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/43857182-a0a4-4b42-976d-9bbebe8aa142" alt="scikitlearn" width="50" /></a> &nbsp;
       <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eef5d966-3bd3-4cc7-91b8-cf60559d74a1" alt="opencv" width="40" /></a> &nbsp;
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" /></a> &nbsp;
@@ -117,14 +118,17 @@
 </tr>
 <tr>
     <td align="left">
-      <strong>LLMs & Vision Models</strong>
+      <strong>Generative AI & Agentic Frameworks</strong>
     </td>
     <td>
       <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/124f4ade-50ae-4e35-bc13-ecbbecfea024" alt="gemini" width="39" /></a> &nbsp;
       <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8ca7fc82-c450-4a5f-8854-8141bc283450" alt="openai" width="40" /></a> &nbsp;
       <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/adc0e5fe-0526-48ee-bc03-8c894d8825a7" alt="llama" width="40" /></a> &nbsp;
       <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e674aba0-e20b-48b0-b67e-d43d9e9facc4" alt="mistral" width="40" /></a> &nbsp;
+      <a href="https://openrouter.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0b89fe5d-61ab-464e-824b-769f0eac8e6e" alt="openrouter" width="38" /></a> &nbsp;
+      <a href="https://vllm.ai/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6de67dd7-6e6f-498a-9c9b-947c895c2ff8" alt="vllm" width="38" /></a> &nbsp;
       <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0b034450-6e63-4c9f-ae19-f14a31ace5df" alt="langchain" width="45" /></a> &nbsp;
+      <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c6870607-e6c0-4faa-b2ae-c99aaee9647b" alt="langgraph" width="45" /></a> &nbsp;
       <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="45" /></a> &nbsp;
     </td>
 </tr>
