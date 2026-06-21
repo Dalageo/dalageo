@@ -3,12 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:8871e5,100:b678c4&text=Dalageo&textBg=false&fontAlign=50&reversal=false&descAlign=50&animation=fadeIn&rotate=0&fontAlignY=52&fontSize=60&strokeWidth=1.5&descAlignY=33&stroke=b678c4&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=FFF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&color=FFF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Generative+AI+%7C+Agentic+Workflows;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
 </p>
 
-**Data Science & AI/ML Developer** specializing in **Machine Learning**, **Generative AI** and **Agentic Workflows**. Dedicated to engineering end-to-end AI solutions that optimize operations and tackle challenges in both research and industry, whether locally or on cloud infrastructure. Capable of developing and optimizing models for scalability, orchestrating LLMs, building scalable ETL data pipelines, designing agent workflows, and delivering clear results in data-intensive environments. 
 
-Passionate about continuous learning and diving into data to solve meaningful problems. Passion, curiosity, problem perception, and collaboration are what truly drive impact. 💯
+**Data Science & AI/ML Developer** specializing in **Machine Learning**, **Generative AI** and **Agentic Workflows**. 
+Dedicated to engineering end-to-end AI solutions that optimize operations and tackle challenges in both research and industry, whether locally or on cloud infrastructure. Capable of developing and optimizing models for scalability, orchestrating LLMs, building scalable ETL data pipelines, designing agent workflows, and delivering clear results in data-intensive environments. 
+
+Driven by continuous learning and diving into data to solve meaningful problems. Passion, curiosity, problem perception, and collaboration are what truly drive impact. 💯
 
 
 
