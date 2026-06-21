@@ -65,7 +65,7 @@
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" /></a> &nbsp;
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9255622d-9b5f-4f75-a89f-10604883ee47" alt="typescript" width="38" /></a> &nbsp;
-      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ca6cf4b-0b9e-4b6c-bdeb-3cfefb52e158" alt="javascript" width="39" /></a> &nbsp;
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ca6cf4b-0b9e-4b6c-bdeb-3cfefb52e158" alt="javascript" width="38" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/7803d1a6-d7c9-447a-97ae-a79b41f71e66" alt="C#-logo" width="37" /></a> &nbsp;
       <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/Dalageo/Dalageo/assets/153513781/9cf14340-c958-4fd4-99cc-6a7dcdfdab81" alt="HTML-logo" width="36" /></a> &nbsp;
