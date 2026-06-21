@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=500&color=FFF&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Designing%2C+Building+and+Optimizing+AI+Systems;Curious+by+Design!">
 </p>
 
-**Data Science & AI Developer** with a background in **Machine and Deep Learning**, who is always eager to learn and tackle new challenges. Completed my Master’s thesis, titled **"Investigating the Performance of a Vision Transformer Model for Anomaly Detection in Laser Metal Deposition Imaging."** The research explored a [**Transformer**](https://arxiv.org/abs/1706.03762)-based approach to optimize the Laser Metal Deposition process by detecting anomalies in captured images. It specifically applied a custom [**Vision Transformer**](https://arxiv.org/abs/2010.11929)-decoder architecture and introduced a novel method to achieve near-perfect accuracy.
+**Data Science & AI/ML Developer** specializing in **Machine Learning**, **Generative AI** and **Agentic Workflows**. Dedicated to engineering end-to-end AI solutions that optimize operations and tackle challenges in both research and industry, whether locally or on cloud infrastructure. Capable of developing and optimizing models for scalability, orchestrating LLMs, building scalable ETL data pipelines, designing agent workflows, and delivering clear results in data-intensive environments. 
 
-### 📘 Curious to explore my work?
+Passionate about continuous learning and diving into data to solve meaningful problems. Passion, curiosity, problem perception, and collaboration are what truly drive impact. 💯
+
+
+
+### 📘 Curious to explore my thesis work?
 <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1886506&dswid=682" target="_blank" rel="noreferrer">
   <img src="https://github.com/user-attachments/assets/7b7222c0-c35f-43c6-8d58-028cf6b35b09" alt="Master's Thesis" width="120" height="80" style="border: 1px solid #ddd; border-radius: 5px;"/>
 </a>
