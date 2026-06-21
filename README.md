@@ -154,9 +154,9 @@ Driven by continuous learning and diving into data to solve meaningful problems.
       <strong>Operating Systems</strong>
     </td>
     <td>
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9046086f-c92a-493b-9c08-911ad7452810" alt="linux" width="40" /></a> &nbsp;
       <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2faa8f99-30cb-4be7-8928-b5b5242baeb9" alt="windows" width="38" /></a> &nbsp;
-      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9046086f-c92a-493b-9c08-911ad7452810" alt="linux" width="40" /></a>
-      <a href="https://www.apple.com/os/macos/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6d50399b-fbc6-47a2-970f-c1f80995f987" alt="macos" width="43" /></a> &nbsp;
+      <a href="https://www.apple.com/os/macos/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6d50399b-fbc6-47a2-970f-c1f80995f987" alt="macos" width="43" /></a>
     </td>
 </tr>
 <tr>
