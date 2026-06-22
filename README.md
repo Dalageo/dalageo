@@ -103,6 +103,7 @@ Driven by continuous learning and diving into data to solve meaningful problems.
       <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b0cee235-900d-4975-8fb2-69e4119f32f3" alt="gcp" width="40" /></a> &nbsp;
       <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/545a6cf9-0068-4ff4-947e-845b7fbc264b" alt="azure" width="40" /></a> &nbsp;
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" /></a> &nbsp;
+      <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/685c6f29-3d61-4f92-9f6f-b8d2741f4598" alt="terraform" width="40" /></a> &nbsp;
       <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9a0432ce-224e-4539-951c-b39518c25b13" alt="cloudflare" width="40" /></a> &nbsp;
       <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" /></a> &nbsp;
     </td>
