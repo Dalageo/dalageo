@@ -82,34 +82,6 @@ Driven by continuous learning and diving into data to solve meaningful problems.
 </tr>
 <tr>
     <td align="left">
-      <strong>Back-end Development</strong>
-    </td>
-    <td>
-      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="38" /></a> &nbsp;
-      <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ea534af-21a4-43c3-bea7-82ec2b9b2532" alt="bigquery" width="40" /></a> &nbsp;
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bc20f8d-d73f-4a53-8032-e6b150dec44c" alt="mysql" width="40" /></a> &nbsp;
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bae5e073-499d-49e5-bd8d-38ac10f7a007" alt="postgre" width="40" /></a> &nbsp;
-      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="39" /></a> &nbsp;
-      <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" /></a> &nbsp;
-      <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" /></a> &nbsp;
-      <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" /></a> &nbsp;
-    </td>
-</tr>
-<tr>
-    <td align="left">
-      <strong>Cloud &amp; DevOps</strong>
-    </td>
-    <td>
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b0cee235-900d-4975-8fb2-69e4119f32f3" alt="gcp" width="40" /></a> &nbsp;
-      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/545a6cf9-0068-4ff4-947e-845b7fbc264b" alt="azure" width="40" /></a> &nbsp;
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" /></a> &nbsp;
-      <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/685c6f29-3d61-4f92-9f6f-b8d2741f4598" alt="terraform" width="40" /></a> &nbsp;
-      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9a0432ce-224e-4539-951c-b39518c25b13" alt="cloudflare" width="40" /></a> &nbsp;
-      <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" /></a> &nbsp;
-    </td>
-</tr>
-<tr>
-    <td align="left">
       <strong>Data Science &amp; ML Frameworks</strong>
     </td>
     <td>
@@ -137,6 +109,34 @@ Driven by continuous learning and diving into data to solve meaningful problems.
       <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0b034450-6e63-4c9f-ae19-f14a31ace5df" alt="langchain" width="45" /></a> &nbsp;
       <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c6870607-e6c0-4faa-b2ae-c99aaee9647b" alt="langgraph" width="45" /></a> &nbsp;
       <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/aa89e4b7-5873-4341-a25d-700e64b20d15" alt="langsmith" width="45" /></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="left">
+      <strong>Cloud &amp; DevOps</strong>
+    </td>
+    <td>
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b0cee235-900d-4975-8fb2-69e4119f32f3" alt="gcp" width="40" /></a> &nbsp;
+      <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/545a6cf9-0068-4ff4-947e-845b7fbc264b" alt="azure" width="40" /></a> &nbsp;
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b95d008-9b02-4363-a558-d72a563f29b4" alt="docker" width="40" /></a> &nbsp;
+      <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/685c6f29-3d61-4f92-9f6f-b8d2741f4598" alt="terraform" width="40" /></a> &nbsp;
+      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9a0432ce-224e-4539-951c-b39518c25b13" alt="cloudflare" width="40" /></a> &nbsp;
+      <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d2484021-d98d-4d64-be50-3ddd367785f2" alt="railway" width="40" /></a> &nbsp;
+    </td>
+</tr>
+<tr>
+    <td align="left">
+      <strong>Back-end Development</strong>
+    </td>
+    <td>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6f451de1-a7ce-48fb-b133-964b200d2ed3" alt="fastapi" width="38" /></a> &nbsp;
+      <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ea534af-21a4-43c3-bea7-82ec2b9b2532" alt="bigquery" width="40" /></a> &nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8bc20f8d-d73f-4a53-8032-e6b150dec44c" alt="mysql" width="40" /></a> &nbsp;
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/bae5e073-499d-49e5-bd8d-38ac10f7a007" alt="postgre" width="40" /></a> &nbsp;
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/31779115-3dee-4c79-b563-802609a042eb" alt="supabase" width="39" /></a> &nbsp;
+      <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/023f1a25-82a3-4804-9e6b-fed8549151e5" alt="redis" width="40" /></a> &nbsp;
+      <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99e16683-ba02-47ff-ada1-57a0d7e7f064" alt="celery" width="40" /></a> &nbsp;
+      <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/275b8dc6-d386-491a-b214-a61bf4eb15f4" alt="postman" width="38" /></a> &nbsp;
     </td>
 </tr>
 <tr>
